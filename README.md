@@ -104,9 +104,7 @@ is the best to use?</a></strong></p>
 <p><font face="Verdana, Arial, Helvetica, sans-serif"><a href="HP41Cprograms/">Listing of files</a> </font></p>
 	<p class="auto-style1">&nbsp;</p>
 	<p class="auto-style1">&nbsp;</p>
-<p><font face="Verdana, Arial, Helvetica, sans-serif">November 2009 - 2021</font></p>
-<p><font face="Verdana, Arial, Helvetica, sans-serif"><a href="../index.html">&lt; --------
-  Back home</a> </font></p>
-<p><font face="Verdana, Arial, Helvetica, sans-serif">Ed Nieuwenhuys <a href="../email.html">Email</a> </font></p>
+<p><font face="Verdana, Arial, Helvetica, sans-serif">November 2009 - 2025</font></p>
+
 </div>
 
