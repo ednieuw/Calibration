@@ -1,38 +1,4 @@
-<HTML>
-<HEAD>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
-<meta content="en-gb" http-equiv="Content-Language">
-<meta content=" parallel line assay, PLA Excel ELISA plate" name="keywords">
-<meta content="A parallel line assay, PLA, for 13 samples in Excel measured in a ELISA plate" name="description">
-<META NAME="Generator" CONTENT="Microsoft Word 97">
-<TITLE>Parallel line assay, PLA</TITLE>
-<META NAME="Template" CONTENT="C:\PROGRAM FILES\MICROSOFT OFFICE\OFFICE\html.dot">
-<style type="text/css">
-<!--
-body {
-	background-color: #000000;
-}
-.style1 {font-family: Verdana, Arial, Helvetica, sans-serif}
-.style2 {font-size: 10.0pt}
-.style4 {font-size: smaller}
-body,td,th {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	color: #FFFFFF;
-}
-a:link {
-	color: #CCCCCC;
-}
-a:visited {
-	color: #FFFF00;
-}
-.auto-style1 {
-	font-size: xx-small;
-}
--->
-</style>
-</HEAD>
-<BODY>
-<img src="PLA-rekensheet.png" width="1024" alt="PLA-rekensheet">
+Parallel line assay, PLA<img src="PLA-rekensheet.png" width="1024" alt="PLA-rekensheet">
 <h1>Parallel line assay, PLA in Microsoft Excel </h1>
 <p class="style1"><a href="../Regression.htm">&lt;-- Back to calibration programs</a></p>
 <table width="1034" cellspacing="0">
@@ -106,5 +72,4 @@ Microsoft Excel</span></p>
 </span>10 mei 2022,<span lang=EN-GB><br><span class="auto-style1">13 august 2019
 </span> </span></p>
 
-</BODY>
-</HTML>
+

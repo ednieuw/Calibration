@@ -1,25 +1,4 @@
-<HTML>
-<HEAD>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
-<meta content="Slope ratio assay SRA Excel" name="keywords">
-<meta content="A slope ratio assay method in Excel" name="description">
-<META NAME="Generator" CONTENT="Microsoft Word 97">
-<TITLE>Slope ratio assay, SRA</TITLE>
-<META NAME="Template" CONTENT="C:\PROGRAM FILES\MICROSOFT OFFICE\OFFICE\html.dot">
-<style type="text/css">
-<!--
-body {
-	background-color: #FF9900;
-}
-.style1 {font-family: Verdana, Arial, Helvetica, sans-serif}
-.auto-style1 {
-	font-size: xx-small;
-}
--->
-</style></HEAD>
-<BODY LINK="#0000ff" VLINK="#800080">
-
-
+### Slope ratio assay, SRA
 <h1 align=center style='text-align:center; font-family: Verdana, Arial, Helvetica, sans-serif;'>
 Slope Ratio assay (SRA)</h1>
 <table width="1024" border="0" cellspacing="1" cellpadding="5">
@@ -102,7 +81,3 @@ Assays"&nbsp; D.J.Finney , Third edition 1978,
 <p class="style1"><a href="../Regression.htm">&lt;-- Back to calibration programs</a> </p>
 <p class="style1"><span lang=EN-GB><a href="../../email.html">Ed Nieuwenhuys</a>, 
 10 may 2022,<br><span class="auto-style1">16 august 2021, 9 july 2009 </span> </span></p>
-
-
-</BODY>
-</HTML>
