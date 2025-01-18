@@ -1,100 +1,5 @@
-<html>
 
-<head>
-<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
-<meta name=Generator content="Microsoft Word 12 (filtered)">
-<title>Regressions Excel calibration Logit / Rodbard, SRA and PLA</title>
-<style>
-<!--
- /* Font Definitions */
- @font-face
-	{font-family:"Cambria Math";
-	panose-1:2 4 5 3 5 4 6 3 2 4;}
- /* Style Definitions */
- p.MsoNormal, li.MsoNormal, div.MsoNormal
-	{margin:0cm;
-	margin-bottom:.0001pt;
-	font-size:12.0pt;
-	font-family:"Times New Roman","serif";}
-h2
-	{mso-style-link:"Heading 2 Char";
-	margin-right:0cm;
-	margin-left:0cm;
-	font-size:18pt;
-	font-family:"Times New Roman","serif";
-	font-weight:bold;}
-a:link, span.MsoHyperlink
-	{color:blue;
-	text-decoration:underline;}
-a:visited, span.MsoHyperlinkFollowed
-	{color:purple;
-	text-decoration:underline;}
-p
-	{margin-right:0cm;
-	margin-left:0cm;
-	font-size:12.0pt;
-	font-family:"Times New Roman","serif";}
-span.Heading2Char
-	{mso-style-name:"Heading 2 Char";
-	mso-style-link:"Heading 2";
-	font-family:"Cambria","serif";
-	color:#4F81BD;
-	font-weight:bold;}
-.MsoChpDefault
-	{font-size:10.0pt;}
-@page Section1
-	{size:595.3pt 841.9pt;
-	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
-div.Section1
-	{page:Section1;}
-body {
-	background-color: #000000;
-}
-body,td,th {
-	color: #FFFFFF;
-}
-a:link {
-	color: #CCCCCC;
-}
-a:visited {
-	color: #FFFF00;
-}
-.auto-style1 {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-}
-.auto-style2 {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: medium;
-}
-.auto-style3 {
-	color: #FFFF00;
-}
-.auto-style4 {
-	color: #FF8D00;
-}
-.auto-style5 {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	color: #FFFF00;
-}
-.auto-style7 {
-	font-family: Arial;
-	font-size: x-large;
-	color: #FFFF99;
-}
-.auto-style8 {
-	font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-.auto-style9 {
-	font-family: Verdana, Geneva, Tahoma, sans-serif;
-	text-align: center;
-}
--->
-</style>
-
-<meta name=Template content="C:\PROGRAM FILES\MICROSOFT OFFICE\OFFICE\html.dot">
-</head>
-
-<body lang=EN-GB>
+### Regressions Excel calibration Logit / Rodbard, SRA and PLA
 
 <div class=Section1>
 
@@ -111,7 +16,7 @@ a straight line.<br>
   method described by D.J. Finney.<br>
   Up to thirteen samples can be calculated </font></span><span class="style1" lang=EN-GB><font face="Verdana, Arial, Helvetica, sans-serif">by hand, from an ELISA plate reading or list of responses. <br>
   </font></span><font face="Verdana, Arial, Helvetica, sans-serif"><a href="PLA/PLA.htm">Parallel
-  line assay PLA  </a></font></p>
+  line assay PLA Â </a></font></p>
 <p><span class="style1" lang=EN-GB><font face="Verdana, Arial, Helvetica, sans-serif">The
       SRA presented here is written in Microsoft Excel and is an copy of the
   method described by D.J. Finney.<br>
@@ -151,7 +56,7 @@ is the best to use?</a></strong></p>
 	<p class="auto-style1"><img alt="SRA" src="img4.jpg"></p>
 	<p class="auto-style1"><img alt="PLa" src="img5.jpg"></p>
 	<p class="auto-style1">The results for the sample were calculated in:<br>PLA 
-	as 265 ± 10%<br>SRA as 274 ± 10%<br>Logit as 261 ± 8%<br></p>
+	as 265 Â± 10%<br>SRA as 274 Â± 10%<br>Logit as 261 Â± 8%<br></p>
 	<p class="auto-style5">My conclusions:</p>
 	<p class="auto-style1">As to be expected the calculation method has no great 
 	influence on the result. <br>All results fall well within in the&nbsp; 
@@ -203,21 +108,5 @@ is the best to use?</a></strong></p>
 <p><font face="Verdana, Arial, Helvetica, sans-serif"><a href="../index.html">&lt; --------
   Back home</a> </font></p>
 <p><font face="Verdana, Arial, Helvetica, sans-serif">Ed Nieuwenhuys <a href="../email.html">Email</a> </font></p>
-
 </div>
 
-<font face="Verdana, Arial, Helvetica, sans-serif">
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-7996536-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-
-</font>
-</body>
-
-</html>
