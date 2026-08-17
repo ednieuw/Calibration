@@ -50,10 +50,9 @@ upper limits changes with every test. </span></p>
 <table width="1023" border="0">
   <tr>
     <td width="311" class="auto-style3">
-	<a href="ELISA-Logit-V08Dec2021.xlsm">
-	ELISA-Logit-V08Dec2021</a></td>
-    <td width="702" class="auto-style3">Latest version. Corrected bug in &lt; and &gt; in 
-	matrix results </td>
+	<a href="ELISA-Logit-V13aug2026.xlsm">
+	ELISA-Logit-V13aug2026</a></td>
+    <td width="702" class="auto-style3">Latest version. ActiveX components removed</td>
   </tr>
   <tr>
     <td class="style1"><a href="Manual%20ELISA-Logit-V01Jul2018%20in%20Microsoft%20Excel.docx">
@@ -117,6 +116,13 @@ upper limits changes with every test. </span></p>
     <td class="style1">&lt; and &gt; results based on the average respons </td>
   </tr>
   <tr>
+   <tr>
+    <td width="311" class="auto-style3">
+	<a href="ELISA-Logit-V08Dec2021.xlsm">
+	ELISA-Logit-V08Dec2021</a></td>
+    <td width="702" class="auto-style3">Corrected bug in &lt; and &gt; in 
+	matrix results </td>
+  </tr> 
     <td class="style1"><a href="ELISA-Logit-V20Jul2022.xlsm">
 	ELISA-Logit-V20Jul2022.xlsm</a></td>
     <td class="style1">v08Dec2022 Without password protection on VBA (Copyright 
