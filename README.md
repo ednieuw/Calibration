@@ -1,4 +1,4 @@
-# Three Microsoft Excel calibration programs for the laboratory
+# Logit, SRA and PLA Microsoft Excel calibration programs for the laboratory
 
 Regressions in Excel for calibration: Logit / Rodbard, SRA and PLA.
 
