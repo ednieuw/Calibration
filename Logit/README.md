@@ -47,15 +47,15 @@ Especially for validation purposes it is difficult to explain why lower and uppe
 
 | File | Description |
 | --- | --- |
-| [ELISA-Logit-V01Jul2018](ELISA-Logit-V01Jul2018.xlsm) | Version with spline. &lt; and &gt; based on concentration of the calibration curve instead of response |
-| [ELISA-logit21042005](ELISA-Logit21042005.xls) | First validated program |
-| [ELISA-Logit-V04apr2007](ELISA-Logit-V04apr2007.xls) | V21042005 --&gt; V04apr2007 absorbance file input directly from two types of ELISA-readers |
-| [ELISA-Logit-V25Oct2009](ELISA-Logit-V25Oct2009.xls) | V04apr2007 --&gt; V25Oct2009 Corrected some type errors in text |
-| [ELISA-Logit-V01Sept2012-Beta](ELISA-Logit-V01Sept2012-Beta.xls) | Added logit log graph. Corrected minor issues |
-| [ELISA-Logit-V03Feb2013_1.xls](ELISA-Logit-V03Feb2013_1.xls) | V03Feb2013_1. Small bug that data in matrix result are sorted after "Sort on name" |
-| [ELISA-Logit-V24May2017.xlsm](ELISA-Logit-V24May2017.xlsm) | &lt; and &gt; results based on the average response |
-| [ELISA-Logit-V08Dec2021](ELISA-Logit-V08Dec2021.xlsm) | Corrected bug in &lt; and &gt; in matrix results |
-| [ELISA-Logit-V20Jul2022.xlsm](ELISA-Logit-V20Jul2022.xlsm) | v08Dec2022 without password protection on VBA (Copyright 2022) |
+| [ELISA-Logit-V01Jul2018](/OlderVersions/ELISA-Logit-V01Jul2018.xlsm) | Version with spline. &lt; and &gt; based on concentration of the calibration curve instead of response |
+| [ELISA-logit21042005](/OlderVersions/ELISA-Logit21042005.xls) | First validated program |
+| [ELISA-Logit-V04apr2007](/OlderVersions/ELISA-Logit-V04apr2007.xls) | V21042005 --&gt; V04apr2007 absorbance file input directly from two types of ELISA-readers |
+| [ELISA-Logit-V25Oct2009](/OlderVersions/ELISA-Logit-V25Oct2009.xls) | V04apr2007 --&gt; V25Oct2009 Corrected some type errors in text |
+| [ELISA-Logit-V01Sept2012-Beta](/OlderVersions/ELISA-Logit-V01Sept2012-Beta.xls) | Added logit log graph. Corrected minor issues |
+| [ELISA-Logit-V03Feb2013_1.xls](/OlderVersions/ELISA-Logit-V03Feb2013_1.xls) | V03Feb2013_1. Small bug that data in matrix result are sorted after "Sort on name" |
+| [ELISA-Logit-V24May2017.xlsm](/OlderVersions/ELISA-Logit-V24May2017.xlsm) | &lt; and &gt; results based on the average response |
+| [ELISA-Logit-V08Dec2021](/OlderVersions/ELISA-Logit-V08Dec2021.xlsm) | Corrected bug in &lt; and &gt; in matrix results |
+| [ELISA-Logit-V20Jul2022.xlsm](/OlderVersions/ELISA-Logit-V20Jul2022.xlsm) | v08Dec2022 without password protection on VBA (Copyright 2022) |
 
 [Linearity.xlsx](Linearity.xlsx)
 
@@ -69,4 +69,4 @@ These programs can be used for non-profit purposes (Copyright 1998-2022)
 
 ---
 
-This page was revised 20 July 2022 by [Ed Nieuwenhuys](https://ednieuw.com/email.html)
+ [Ed Nieuwenhuys](https://ednieuw.com/email.html)
